@@ -12,7 +12,7 @@
 
 ```javascript
 const anas = {
-  location: "Granada, Spain 🇪🇸",
+  location: "Granada, Spain",
   education: "M.Sc Computer Science @ University of Granada",
   role: "Full Stack Developer",
   languages: ["JavaScript", "TypeScript", "Java", "Python"],
@@ -24,8 +24,7 @@ const anas = {
     devops: ["Docker", "Render", "Git", "GitHub Actions"],
     ai: ["Gemini API", "OpenAI", "LangChain"]
   },
-  currentlyBuilding: "DriveES — Premium Car Rental Platform for Spain",
-  openTo: "Freelance projects & Full-time opportunities"
+  currentlyBuilding: "DriveES - Premium Car Rental Platform for Spain"
 };
 ```
 
