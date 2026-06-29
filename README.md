@@ -10,23 +10,21 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const anas = {
-  location: "Granada, Spain",
-  education: "M.Sc Computer Science @ University of Granada",
-  role: "Full Stack Developer",
-  languages: ["JavaScript", "TypeScript", "Java", "Python"],
-  stack: {
-    frontend: ["React", "Framer Motion", "HTML5", "CSS3", "Tailwind"],
-    backend: ["Node.js", "Express", "Spring Boot", "Flask"],
-    database: ["MongoDB", "MySQL", "PostgreSQL"],
-    mobile: ["React Native", "Expo", "Android"],
-    devops: ["Docker", "Render", "Git", "GitHub Actions"],
-    ai: ["Gemini API", "OpenAI", "LangChain"]
-  },
-  currentlyBuilding: "DriveES - Premium Car Rental Platform for Spain"
-};
-```
+## 👨‍💻 About Me
+
+🎓 M.Sc Computer Science student at the **University of Granada**, Spain
+
+🚀 Full Stack Developer specializing in **React**, **Node.js** and **MongoDB**
+
+🌍 Based in **Granada, Spain** — open to remote work worldwide
+
+📱 Also building mobile apps with **React Native** and **Android**
+
+🤖 Passionate about **AI integration** — built VEGA, a bilingual AI assistant powered by Gemini
+
+🔨 Currently building **DriveES** — a premium car rental platform for Spain
+
+💼 Open to **freelance projects** and **full-time opportunities**
 
 ---
 
